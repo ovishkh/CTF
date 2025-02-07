@@ -1,62 +1,72 @@
 Cybersecurity Educational Resources
 ==========================
 
-This is an [awesome list](https://github.com/sindresorhus/awesome) of resources related to teaching cybersecurity, primarly to running Capture the Flag games for educational purposes. The resources are divided into categories and sorted alphabetically within each category.
+This is an [CyberKIT](https://github.com/ovishkh) of resources related to teaching cybersecurity, primarily for running Capture the Flag (CTF) games and educational purposes. Resources are divided into categories and sorted alphabetically within each category.
 
-## Capture the Flag (CTF) games
+## Capture the Flag (CTF) Games
 
-* [CTFd](https://ctfd.io/) – an open-source CTF platform
-* [CTFtime](https://ctftime.org/) – a public directory of all CTFs organized currently or in the past
-* [CTF Field Guide](https://trailofbits.github.io/ctf/) – an online book about preparing for CTFs
+* [CTFd](https://ctfd.io/) – Open-source CTF platform.
+* [CTFtime](https://ctftime.org/) – Directory of current and past CTFs with rankings.
+* [CTF Field Guide](https://trailofbits.github.io/ctf/) – Online book for CTF preparation.
+* [FBCTF](https://github.com/facebook/fbctf) – Open-source CTF platform developed by Facebook.
+* [picoCTF](https://picoctf.org/) – Beginner-friendly CTF platform designed for education.
 
-## Online training grounds and practice challenges
+## Online Training Grounds and Practice Challenges
 
-* [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
-* [Crackmes.One](https://crackmes.one/) – challenges to practice reverse engineering
-* [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) – a PHP/MySQL web application containing various vulnerabilities
-* [Exploit Exercises](https://exploit-exercises.com/) – virtual machines and challenges to practice security exploits
-* [Hack Me](https://hack.me/) – a community platform for building, hosting and sharing vulnerable web app code
-* [Hack The Box](https://www.hackthebox.eu/) – a community platform with hacking challenges
-* [Hack This Site](https://www.hackthissite.org/) – training ground for hackers including a community forum
-* [Hack This!!](https://www.hackthis.co.uk/) – challenges to practice cryptography, forensics, JavaScript, SQL, and more
-* [Hacker Test](http://www.hackertest.net/) – challenges to practice JavaScript, PHP, HTML and graphic thinking
-* [Root Me](https://www.root-me.org) – challenges to practice hacking skills
-* [Secure Code Warrior](https://portal.securecodewarrior.com/#/intro-splash) – security learning resources and challenges
-* [Wargames](http://overthewire.org/wargames/) – games for practicing hacking skills
+* [Avatao](https://avatao.com/) – Challenges for practicing cybersecurity skills.
+* [Crackmes.One](https://crackmes.one/) – Reverse engineering challenges.
+* [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) – PHP/MySQL web app with intentional vulnerabilities.
+* [Exploit Exercises](https://exploit-exercises.com/) – VMs and challenges for exploit development.
+* [Hack Me](https://hack.me/) – Community platform for building and sharing vulnerable web apps.
+* [Hack The Box](https://www.hackthebox.eu/) – Platform with hacking challenges and labs.
+* [Hack This Site](https://www.hackthissite.org/) – Training ground with forums and challenges.
+* [Hack This!!](https://www.hackthis.co.uk/) – Challenges in cryptography, SQL, JavaScript, and more.
+* [Hacker Test](http://www.hackertest.net/) – Challenges in PHP, JavaScript, and logic.
+* [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) – Modern vulnerable web app for security training.
+* [PentesterLab](https://pentesterlab.com/) – Hands-on web security exercises.
+* [RingZer0Team](https://ringzer0team.com/) – Challenges in cryptography, malware analysis, and more.
+* [Root Me](https://www.root-me.org) – Hacking challenges across multiple categories.
+* [Secure Code Warrior](https://portal.securecodewarrior.com/#/intro-splash) – Interactive secure coding training.
+* [TryHackMe](https://tryhackme.com/) – Guided cybersecurity labs and challenges.
+* [VulnHub](https://www.vulnhub.com/) – Vulnerable VMs for practical experience.
+* [Wargames](http://overthewire.org/wargames/) – Games to practice hacking skills (e.g., Bandit, Natas).
 
-## Online courses and materials
+## Online Courses and Materials
 
-* [Cybrary](https://www.cybrary.it/) – free online security courses
-* [Cybersecurity Guide](https://cybersecurityguide.org/) – collection of guides
-* [Cyber Security Degrees](https://cybersecuritydegrees.org/) – lists of scholarships, degree programs, and certifications in the USA
-* [eLearnSecurity](https://www.elearnsecurity.com/) – paid online security courses
-* [ENISA Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) – educational resources
-* [Exploit Database](https://www.exploit-db.com/) – archive of exploits
-* [Hacker101](https://www.hacker101.com/) – free, open-source video lessons on web security
-* [Hacksplaining](https://www.hacksplaining.com/lessons) – vulnerabilities explained simply
-* [Open Security Training](http://www.opensecuritytraining.info/) – free, open-source materials for computer security classes
-* [PortSwigger](https://portswigger.net/web-security) – free, online web security training with basic and advanced topics and hands-on labs
-* [SANS](https://www.sans.org/) – professional paid information security training
-* [SANS Cyber Aces](https://tutorials.cyberaces.org/) – video tutorials with handouts and quizzes
-* [Teaching Security](https://teachingsecurity.org/) – ready-made materials for classrooms
+* [Coursera Cybersecurity Specialization](https://www.coursera.org/specializations/cybersecurity) – Courses by University of Maryland.
+* [Cybrary](https://www.cybrary.it/) – Free cybersecurity courses and labs.
+* [Cyber Security Degrees](https://cybersecuritydegrees.org/) – Scholarships, degrees, and certifications (USA-focused).
+* [Cybersecurity Guide](https://cybersecurityguide.org/) – Guides and career resources.
+* [eLearnSecurity](https://www.elearnsecurity.com/) – Paid courses (e.g., eJPT, eCPPT).
+* [ENISA Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) – EU cybersecurity training materials.
+* [Exploit Database](https://www.exploit-db.com/) – Archive of exploits and vulnerabilities.
+* [Hacker101](https://www.hacker101.com/) – Free web security video lessons.
+* [Hacksplaining](https://www.hacksplaining.com/lessons) – Simplified vulnerability explanations.
+* [Immersive Labs](https://www.immersivelabs.com/) – Interactive cybersecurity labs.
+* [MITRE ATT&CK](https://attack.mitre.org/) – Knowledge base of adversary tactics and techniques.
+* [Offensive Security](https://www.offensive-security.com/) – Paid courses (e.g., OSCP, PEN-200).
+* [Open Security Training](http://www.opensecuritytraining.info/) – Free materials for security classes.
+* [OWASP Foundation](https://owasp.org/) – Resources on web application security.
+* [Pentester Academy](https://www.pentesteracademy.com/) – Courses on red teaming, forensics, and more.
+* [PortSwigger](https://portswigger.net/web-security) – Free web security training with labs.
+* [SANS](https://www.sans.org/) – Professional paid security training (e.g., GIAC certifications).
+* [SANS Cyber Aces](https://tutorials.cyberaces.org/) – Free tutorials with quizzes.
+* [Teaching Security](https://teachingsecurity.org/) – Classroom-ready cybersecurity materials.
 
-## Other interesting lists
+## Other Interesting Lists
 
-* [Awesome Security List](https://github.com/sindresorhus/awesome#security) – a major list on everything security-related
-* [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) – a roadmap for vulnerable apps and systems
-* [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools
-* [TeachCyber](https://teachcyber.tk/) – a list of free online resources
-* [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) – Curated list of hacking tools/resources.
+* [Awesome Pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources.
+* [Awesome Security List](https://github.com/sindresorhus/awesome#security) – Major security-related awesome list.
+* [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap) – Learning path for cybersecurity.
+* [Infosec Community Resources](https://github.com/InfosecHouse/InfosecHouse) – Tools, blogs, and communities.
+* [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) – Roadmap of vulnerable apps.
+* [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools.
+* [TeachCyber](https://teachcyber.tk/) – Free cybersecurity teaching resources.
+* [WeChall](https://www.wechall.net/active_sites) – List of web challenges and practice sites.
 
-## Do you want to contribute or share your comments?
+## Contribute or Share Feedback
 
-We highly appreciate new contributions, suggestions for improvement, or any other comments.  
-Please email [Valdemar Švábenský](https://github.com/valdemarsv) at *valdemar@mail.muni.cz*.
+Contributions and suggestions are welcome!  
+Email [Ovi Shekh](https://github.com/ovishekh) at *chat@ovishekh.com*.
 
-## Authors
-
-This list was compiled and is maintained by the members of the [CSIRT-MU team](https://csirt.muni.cz/) at the [Masaryk University](https://muni.cz).
-
-## Licence
-
-This work is licensed under a [CC0 (Public Domain) License](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to use it in any way.
